@@ -1,7 +1,7 @@
 print("""
 ekok bulma prg""")
 
-sayı1 = int(input("sayi1 :"))
+sayi1 = int(input("sayi1 :"))
 sayı2 = int(input("sayi2 :"))
 
 def ekok_bulma(sayı1,sayı2):
@@ -36,5 +36,5 @@ sayı1 = int(input("Sayı-1:"))
 sayı2 = int(input("Sayı-2:"))
 
 print("Ekok:",ekok_bulma(sayı1,sayı2))
-
+print("txt")
 
